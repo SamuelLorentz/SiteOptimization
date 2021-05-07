@@ -4,7 +4,7 @@
   "description": "Arquitetura Front-End",
   "main": "gruntfile.js",
   "dependencies": {
-    "grunt": "~0.4.5",
+    "grunt": "~1.3.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-uncss": "^0.8.6"
   },
